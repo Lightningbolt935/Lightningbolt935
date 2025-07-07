@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snehil Sahay</h1>
-<h3 align="center">A Computer Science student who likes embedded systems</h3>
+<h3 align="center">A Computer Science student who likes to learn about the fundamentals of machines </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lightningbolt935&label=Profile%20views&color=0e75b6&style=flat" alt="lightningbolt935" /> </p>
 
