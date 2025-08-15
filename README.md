@@ -25,9 +25,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lightningbolt935&" alt="lightningbolt935" /></p>
 
-![GitHub contribution stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lightningbolt935&theme=github_dark)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lightningbolt935&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lightningbolt935&theme=github_dark" />
 </p>
+![GitHub stats radar](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lightningbolt935&theme=github_dark)
 
