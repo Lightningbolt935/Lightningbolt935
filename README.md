@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AutoRescue (a disaster technology to help people in the disaster prone area)**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **AI and ML**
 
 - 📫 How to reach me **monster92171@gmail.com**
 
