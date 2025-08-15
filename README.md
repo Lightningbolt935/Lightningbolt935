@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lightningbolt935&show_icons=true&locale=en" alt="lightningbolt935" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lightningbolt935&" alt="lightningbolt935" /></p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lightningbolt935&theme=github-compact)
+
