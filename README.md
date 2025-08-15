@@ -30,4 +30,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lightningbolt935&theme=github_dark" />
 </p>
 ![GitHub stats radar](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lightningbolt935&theme=github_dark)
-
