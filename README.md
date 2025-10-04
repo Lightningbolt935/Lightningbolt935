@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lightningbolt935&label=Profile%20views&color=0e75b6&style=flat" alt="lightningbolt935" /> </p>
 
+<img align="right" alt="coding gif" width="380" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lightningbolt935&theme=matrix" alt="lightningbolt935" /></a> </p>
 
 - 🔭 I’m currently working on **AutoRescue (a disaster technology to help people in the disaster prone area)**
