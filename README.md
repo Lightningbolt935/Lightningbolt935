@@ -34,7 +34,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lightningbolt935&theme=github_dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshav-chaudhary&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehil-sahay&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
