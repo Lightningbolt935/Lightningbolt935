@@ -31,3 +31,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lightningbolt935&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lightningbolt935&theme=github_dark" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshav-chaudhary&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ ✨  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Happy+Coding!;Be+Fit+Be+Hit+💪;Keep+Building+%26+Breaking!"/>
+</p>
