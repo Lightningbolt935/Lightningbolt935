@@ -20,8 +20,9 @@
 <a href="mailto: monster92171@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+### Languages and Tools:
+
+<p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -67,7 +68,7 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   </a>
-</div>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lightningbolt935&show_icons=true&locale=en&layout=compact" alt="lightningbolt935" /></p>
 
