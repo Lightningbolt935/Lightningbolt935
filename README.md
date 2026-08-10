@@ -16,7 +16,6 @@
 
 * 🔭 Currently building **[AutoRescue](#)** — a disaster-response technology designed to help people in disaster-prone areas through intelligent detection, communication, and emergency assistance.
 * 🤖 Exploring **AI/ML**, with a focus on applying intelligent systems to real-world problems.
-* 🍎 Learning and building with **iOS / Swift** and exploring the Apple ecosystem.
 * 🌐 Building full-stack applications using **React, Node.js, PostgreSQL, and modern web technologies**.
 * 🛰️ Interested in **IoT, embedded systems, intelligent transportation, and resilient communication systems**.
 
