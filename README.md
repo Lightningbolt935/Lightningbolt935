@@ -26,59 +26,6 @@
 
 ---
 
-<!-- ==================== ABOUT ==================== -->
-<h2 align="center">👋 Hey there, I'm Snehil!</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="180" alt="waving hand" />
-</p>
-
-<p align="center">
-  <b>Computer Science Engineer • Builder • Explorer</b>
-</p>
-
-<p align="center">
-  I enjoy turning ideas into working systems.
-  <br />
-  From <b>AI/ML</b> and <b>full-stack applications</b> to
-  <b>iOS</b>, <b>IoT</b>, and <b>embedded systems</b> —
-  <br />
-  I'm interested in understanding technology deeply and using it
-  to solve problems that actually matter.
-</p>
-
----
-
-<!-- ==================== WHO AM I ==================== -->
-<h2 align="center">🧑‍💻 <code>whoami</code></h2>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                                │
-│   $ whoami                                                    │
-│                                                                │
-│   Snehil Sahay                                                │
-│   Computer Science Engineer                                   │
-│   Engineer • Builder • Problem Solver                         │
-│                                                                │
-│   $ currently                                                 │
-│                                                                │
-│   → Building        AutoRescue 🚨                             │
-│   → Exploring       Artificial Intelligence & ML 🤖           │
-│   → Learning        Swift / iOS 🍎                            │
-│   → Building        Full-Stack Systems 🌐                     │
-│   → Exploring       IoT & Embedded Systems 🛰️                │
-│                                                                │
-│   $ philosophy                                                │
-│                                                                │
-│   "Don't just learn technology.                               │
-│    Build something meaningful with it."                       │
-│                                                                │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
 <!-- ==================== CURRENT WORK ==================== -->
 <h2 align="center">🚀 What I'm Building</h2>
 
@@ -109,23 +56,25 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖨️ Printellect</h3>
-      <b>Real-Time Vendor Notifications</b>
-      <p>A Chrome extension designed to help vendors receive notifications for unattended orders without constantly monitoring their portal.</p>
+      <h3>🎓 Acadloop</h3>
+      <b>Campus Super-App</b>
+      <p>A one-stop platform for students to check attendance and marks, ask questions anonymously, discover campus rooms and the library, browse the food court, and connect with everything happening on campus.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🍎 iOS Exploration</h3>
-      <b>Swift • Apple Technologies</b>
-      <p>Exploring native application development and the capabilities of the Apple ecosystem to build meaningful experiences.</p>
+      <h3>🔍 Visual Product Search</h3>
+      <b>CLIP + FAISS • Counterfeit Detection</b>
+      <p>A unified multimodal embedding pipeline on Amazon's ABO dataset for visual search, near-duplicate detection, and counterfeit listing identification — with Grad-CAM explainability and a live Gradio demo.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
-        <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+        <img src="https://img.shields.io/badge/CLIP-412991?style=flat-square" />
+        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -139,7 +88,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🤖_AI_&_ML-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌐_Full--Stack-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🍎_iOS-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_Campus_Tech-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🛰️_IoT-111111?style=for-the-badge" />
   <br />
   <img src="https://img.shields.io/badge/⚙️_Embedded_Systems-111111?style=for-the-badge" />
@@ -155,13 +104,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=7F7FFF&center=true&vCenter=true&width=700&lines=Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Understanding;Exploring+AI%2FML+%F0%9F%A4%96;Building+with+Swift+%F0%9F%8D%8E;Experimenting+with+Systems+%E2%9A%99%EF%B8%8F;Always+curious.+Always+building."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=7F7FFF&center=true&vCenter=true&width=700&lines=Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Understanding;Exploring+Edge-AI+%26+ML+Systems+%F0%9F%A4%96;Mechanistic+Interpretability+%F0%9F%94%AC;Building+Full-Stack+Campus+Tech+%F0%9F%8E%93;Always+curious.+Always+building."
     alt="Currently exploring"
   />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,swift,react,nodejs,postgres,firebase,git,github,arduino,cpp" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,react,nodejs,postgres,firebase,git,github,cpp,java" alt="Technologies" />
 </p>
 
 ---
