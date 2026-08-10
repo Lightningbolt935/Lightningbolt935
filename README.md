@@ -173,8 +173,8 @@
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lightningbolt935&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Snehil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightningbolt935&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lightningbolt935&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&v=2" alt="Snehil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightningbolt935&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -186,7 +186,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lightningbolt935&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lightningbolt935&theme=darkhub&no-frame=true&row=1&column=6&v=2" alt="GitHub Trophies" />
 </p>
 
 <h3 align="center">🧊 3D Contribution Calendar</h3>
