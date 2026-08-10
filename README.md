@@ -119,17 +119,35 @@
 <h2 align="center">🛠️ Technology Stack</h2>
 
 <p align="center">
-  <b>Languages</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,swift" />
-  <br /><br />
-  <b>Frontend & Mobile</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,reactnative" />
-  <br /><br />
-  <b>Backend & Database</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" />
-  <br /><br />
-  <b>Tools & Platforms</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,swift&perline=6" />
+</p>
+<p align="center">
+  <b>Languages</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,reactnative&perline=5" />
+</p>
+<p align="center">
+  <b>Frontend & Mobile</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase&perline=5" />
+</p>
+<p align="center">
+  <b>Backend & Database</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway,arduino&perline=6" />
+</p>
+<p align="center">
+  <b>Tools & Platforms</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2c5364&height=2&width=1000" width="100%" alt="divider" />
 </p>
 
 ---
@@ -143,6 +161,10 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/SvyLbHV3jjMzZodPuU/giphy.gif" width="400" alt="coding animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400" alt="matrix code rain" />
 </p>
 
 ---
@@ -167,6 +189,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Lightningbolt935&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
+<h3 align="center">🧊 3D Contribution Calendar</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lightningbolt935/Lightningbolt935/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
+</p>
+
 ---
 
 <!-- ==================== ABOUT ME ==================== -->
@@ -180,10 +207,18 @@
   🌎 I'm interested in technology that can create real-world impact
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</p>
+
 ---
 
 <!-- ==================== CONTACT ==================== -->
 <h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" alt="lets connect" />
+</p>
 
 <p align="center">
   <a href="mailto:monster92171@gmail.com">
