@@ -1,6 +1,10 @@
 <!-- ==================== HERO ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Snehil%20Sahay&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%" alt="Snehil Sahay banner" />
+  <img src="./88a16940-40db-4923-8f52-f6704d087404.png" width="100%" alt="Snehil Sahay" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&width=1000" width="100%" alt="divider" />
 </p>
 
 <p align="center">
@@ -24,6 +28,10 @@
 
 <!-- ==================== ABOUT ==================== -->
 <h2 align="center">👋 Hey there, I'm Snehil!</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="180" alt="waving hand" />
+</p>
 
 <p align="center">
   <b>Computer Science Engineer • Builder • Explorer</b>
@@ -184,6 +192,10 @@
   💡 IDEA → 🔍 EXPLORE → 🧠 LEARN → 🛠 BUILD → 💥 BREAK → 🔧 DEBUG → 🚀 SHIP → ✨ REPEAT
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SvyLbHV3jjMzZodPuU/giphy.gif" width="400" alt="coding animation" />
+</p>
+
 ---
 
 <!-- ==================== GITHUB STATS ==================== -->
@@ -249,5 +261,5 @@
 <p align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i> ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer&animation=twinkling" width="100%" alt="Footer" />
 </p>
